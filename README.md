@@ -1,1 +1,3 @@
-# La-evoluci-n-de-la-producci-n
+# La-evolución-de-la-producción
+A pesar de los fracasos de la política monetaria, la producción aumentó bastante rápidamente entre 1945 y 1949. Esta recuperación no se produjo, sin embargo, sin dificultades, sobre todo en la agricultura. Los progresos de la producción agrícola fueron menos rápidos que los de la producción industrial que alcanzó el nivel de 1938 en 1947 (aunque es cierto que 1938 fue un año de recesión).
+Despite the failures of monetary policy, production increased fairly rapidly between 1945 and 1949. This recovery did not occur without difficulties, particularly in agriculture. The progress of agricultural production was slower than that of industrial production, which reached the level of 1938 in 1947, although it should be noted that 1938 itself had been a year of recession. 
